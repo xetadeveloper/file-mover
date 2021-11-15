@@ -3,3 +3,4 @@ Things to do
 * Optimize file-move to handle watching nested folders
 * Handle default mode when includes is not set, to watch root dir and copy all files
 * Handle watching only a file and no directory
+* Add tests for functions
